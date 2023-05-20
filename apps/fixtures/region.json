@@ -1,0 +1,100 @@
+[
+  {
+    "model": "apps.region",
+    "pk": "1",
+    "fields": {
+      "name": "Qoraqalpog'iston"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "2",
+    "fields": {
+      "name": "Xorazm"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "3",
+    "fields": {
+      "name": "Navoiy"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "4",
+    "fields": {
+      "name": "Buxoro"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "5",
+    "fields": {
+      "name": "Samarqand"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "6",
+    "fields": {
+      "name": "Qashqadaryo"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "7",
+    "fields": {
+      "name": "Surxondaryo"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "8",
+    "fields": {
+      "name": "Jizzax"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "9",
+    "fields": {
+      "name": "Sirdaryo"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "10",
+    "fields": {
+      "name": "Toshkent viloyati"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "11",
+    "fields": {
+      "name": "Namangan"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "12",
+    "fields": {
+      "name": "Farg'ona"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "13",
+    "fields": {
+      "name": "Andijon"
+    }
+  },
+  {
+    "model": "apps.region",
+    "pk": "14",
+    "fields": {
+      "name": "Toshkent shahar"
+    }
+  }
+]
