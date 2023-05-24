@@ -1,2 +1,2 @@
 # Falcon
-## Multi-branch online shop
+## Multi-branch online shoping
